@@ -45,7 +45,6 @@ Thumbs.db
 /surefire-reports/
 
 # Sensitive configuration
-application.properties
 src/main/resources/application.properties
 src/main/resources/application.yml
 
